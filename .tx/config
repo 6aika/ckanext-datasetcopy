@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 
 [sixodp.ckanext-datasetcopy]
-file_filter = i18n/<lang>/LC_MESSAGES/ckanext-datasetcopy.po
-source_file = i18n/ckanext-datasetcopy.pot
+file_filter = ckanext/datasetcopy/i18n/<lang>/LC_MESSAGES/ckanext-datasetcopy.po
+source_file = ckanext/datasetcopy/i18n/ckanext-datasetcopy.pot
 source_lang = en
 type = PO
