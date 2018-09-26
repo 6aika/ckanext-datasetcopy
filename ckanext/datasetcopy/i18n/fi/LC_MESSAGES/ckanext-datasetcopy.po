@@ -64,8 +64,8 @@ msgid ""
 "Important: By submitting content, you agree to release your contributions "
 "under the Open Database License."
 msgstr ""
-"Tärkeää: Lisäämällä sisältöä suostut julkaisemaan luomasi sisällön Open "
-"Database Lisenssin alla."
+"Tärkeää: Lisäämällä sisältöä suostut julkaisemaan luomasi sisällön Creative "
+"Commons 0 -lisenssillä."
 
 #: ckanext/datasetcopy/templates/datasetcopy/snippets/package_copy_form.html:20
 msgid "Save"
@@ -82,8 +82,8 @@ msgstr ""
 "<i>Lisenssi</i>, jonka valitset yllä olevasta valikosta, koskee ainoastaan "
 "tähän tietoaineistoon liittämiäsi tiedostoja. Lähettämällä tämän lomakkeen "
 "suostut julkaisemaan täyttämäsi <i>metatiedot</i> <a "
-"href=\"http://opendatacommons.org/licenses/odbl/1-0/\">Open Database "
-"Lisenssin</a> mukaisesti."
+"href=\"http://opendatacommons.org/licenses/odbl/1-0/\">Creative Commons 0 "
+"-lisenssin</a> mukaisesti."
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:18
 msgid "Are you sure you want to delete this dataset?"
