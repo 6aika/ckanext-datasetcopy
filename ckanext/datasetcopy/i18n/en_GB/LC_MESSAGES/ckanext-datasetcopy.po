@@ -4,17 +4,21 @@
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 # 
+# Translators:
+# Juha Härkönen <juha.harkonen@ouka.fi>, 2017
+# Hami Kekkonen <hami.kekkonen@hel.fi>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-datasetcopy 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-12-13 08:10+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Hami Kekkonen <hami.kekkonen@hel.fi>, 2018\n"
+"PO-Revision-Date: 2016-12-13 08:20+0000\n"
+"Last-Translator: Hami Kekkonen <hami.kekkonen@hel.fi>, 2019\n"
 "Language-Team: English (United Kingdom) (https://www.transifex.com/6aika-dataportal/teams/68018/en_GB/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 "Language: en_GB\n"
@@ -27,12 +31,12 @@ msgstr ""
 #: ckanext/datasetcopy/controller.py:77
 #, python-format
 msgid "User %r not authorized to edit %s"
-msgstr ""
+msgstr "User %r not authorised to edit %s"
 
 #: ckanext/datasetcopy/controller.py:163
 #, python-format
 msgid "Unauthorized to read package %s"
-msgstr ""
+msgstr "Unauthorised to read package %s"
 
 #: ckanext/datasetcopy/controller.py:167
 msgid "Integrity Error"
@@ -88,4 +92,4 @@ msgstr "Delete"
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:25
 msgid "Next: Add Data"
-msgstr ""
+msgstr "Next: Add data"
