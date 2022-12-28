@@ -6,7 +6,7 @@
 
 {% block breadcrumb_content %}
   {{ super() }}
-  <li class="active">{% link_for _('Copy'), controller='package', action='copy', id=pkg.name %}</li>
+  <li class="active">{% link_for _('Copy'), 'dataset.copy', id=pkg.name %}</li>
 {% endblock %}
 
 {% block resources_module %}{% endblock %}
