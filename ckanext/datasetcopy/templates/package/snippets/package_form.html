@@ -19,7 +19,7 @@
       {% endif %}
     {% endblock %}
     {% if data.id %}
-      <a href="{% url_for controller='ckanext.datasetcopy.controller:DatasetcopyController', action='copy_package', id=data.id %}" class="btn">{{ _('Copy') }}</a>
+      <a href="{% url_for 'dataset_copy.dataset_copy', id=data.id %}" class="btn">{{ _('Copy') }}</a>
     {% endif %}
     {% block save_button %}
       <button class="btn btn-primary" type="submit" name="save">{% block save_button_text %}{{ _('Next: Add Data') }}{% endblock %}</button>
