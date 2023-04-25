@@ -101,7 +101,7 @@ class CopyView(MethodView):
             u'error_summary': error_summary,
             u'action': u'edit',
             u'dataset_type': package_type,
-            u'form_style': u'edit'
+            u'form_style': u'new'
         }
 
         _setup_template_variables(
