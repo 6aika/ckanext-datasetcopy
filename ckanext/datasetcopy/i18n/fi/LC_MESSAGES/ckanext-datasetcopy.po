@@ -84,14 +84,14 @@ msgid ""
 "Database License</a>."
 msgstr ""
 "<i>Lisenssi</i>, jonka valitset yllä olevasta valikosta, koskee ainoastaan "
-"tähän tietoaineistoon liittämääsi dataa. Lähettämällä tämän lomakkeen "
-"suostut julkaisemaan täyttämäsi <i>metatiedot</i> <a "
+"avattavaa dataa. Lähettämällä tämän lomakkeen suostut julkaisemaan "
+"täyttämäsi <i>metatiedot</i> <a "
 "href=\"http://opendatacommons.org/licenses/odbl/1-0/\">Creative Commons 0 "
 "-lisenssin</a> mukaisesti."
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:18
 msgid "Are you sure you want to delete this dataset?"
-msgstr "Haluatko varmasti poistaa tietoaineiston?"
+msgstr "Haluatko varmasti poistaa datan?"
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:18
 msgid "Delete"
