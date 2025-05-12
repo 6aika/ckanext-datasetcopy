@@ -36,7 +36,7 @@ msgstr "Käyttäjällä %r ei oikeutta muokata %s"
 #: ckanext/datasetcopy/controller.py:163
 #, python-format
 msgid "Unauthorized to read package %s"
-msgstr "Ei oikeuksia lukea tietoaineistoa %s"
+msgstr "Ei oikeuksia lukea dataa %s"
 
 #: ckanext/datasetcopy/controller.py:167
 msgid "Integrity Error"
