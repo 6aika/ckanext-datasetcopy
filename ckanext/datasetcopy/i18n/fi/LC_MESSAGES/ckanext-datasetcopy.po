@@ -53,7 +53,7 @@ msgstr "Kopioi"
 
 #: ckanext/datasetcopy/templates/datasetcopy/snippets/info.html:15
 msgid "Copy dataset"
-msgstr "Tietoaineiston kopiointi"
+msgstr "Datan kopiointi"
 
 #: ckanext/datasetcopy/templates/datasetcopy/snippets/info.html:16
 msgid ""
