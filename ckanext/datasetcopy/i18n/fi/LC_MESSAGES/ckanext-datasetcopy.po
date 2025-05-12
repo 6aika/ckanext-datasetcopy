@@ -60,8 +60,8 @@ msgid ""
 "Use this function to copy an existing dataset as a template for a new "
 "dataset"
 msgstr ""
-"Käytä tätä toimintoa kopioidaksesi olemassa olevan tietoaineiston tiedot "
-"pohjaksi uudelle"
+"Käytä tätä toimintoa kopioidaksesi olemassa olevan datan tiedot pohjaksi "
+"uudelle"
 
 #: ckanext/datasetcopy/templates/datasetcopy/snippets/package_copy_form.html:11
 msgid ""
