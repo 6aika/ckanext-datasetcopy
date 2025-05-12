@@ -68,8 +68,8 @@ msgid ""
 "Important: By submitting content, you agree to release your contributions "
 "under the Open Database License."
 msgstr ""
-"Tärkeää: Lisäämällä sisältöä suostut julkaisemaan luomasi sisällön Creative "
-"Commons 0 -lisenssillä."
+"Huom: Lisäämällä sisältöä suostut julkaisemaan sen Creative Commons 0 "
+"-lisenssillä."
 
 #: ckanext/datasetcopy/templates/datasetcopy/snippets/package_copy_form.html:20
 msgid "Save"
