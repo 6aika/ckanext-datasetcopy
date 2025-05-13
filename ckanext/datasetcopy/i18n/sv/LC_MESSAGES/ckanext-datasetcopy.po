@@ -97,4 +97,4 @@ msgstr "Radera"
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:25
 msgid "Next: Add Data"
-msgstr "Nästa steg: Lägg till data"
+msgstr "Nästa steg"
