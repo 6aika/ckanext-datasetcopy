@@ -89,7 +89,7 @@ msgstr ""
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:18
 msgid "Are you sure you want to delete this dataset?"
-msgstr "Är du säker på att du vill radera detta dataset?"
+msgstr "Är du säker på att du vill radera denna data?"
 
 #: ckanext/datasetcopy/templates/package/snippets/package_form.html:18
 msgid "Delete"
